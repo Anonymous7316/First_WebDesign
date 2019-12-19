@@ -29,8 +29,13 @@ h1 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  font-size: 1.2rem;
 }
-
+.h3{
+  width: 50%;
+    font-size: 1.6rem;
+    margin:50px auto 30px auto;
+}
 hr {
   border-style: dotted none none;
   border-top-width: 6px;
@@ -49,12 +54,15 @@ p {
 }
 
 .para {
-  font-size: 0.95rem;
-  margin: 50px 35% 50px 35%;
+  width: 50%;
+  margin: 30px auto;
   font-family: 'Merriweather Sans', sans-serif;
-  padding-bottom: 10px;
 }
-
+.para1{
+  width: 50%;
+  margin: 0 auto 60px auto;
+  font-family: 'Merriweather Sans', sans-serif;
+}
 .top-container {
   background-color: #E4F9F5;
   padding-top: 100px;
@@ -96,6 +104,7 @@ p {
 
 .contact-me {
   margin: 70px auto 70px auto;
+  padding: 20px
 }
 
 .footer-link1 {
